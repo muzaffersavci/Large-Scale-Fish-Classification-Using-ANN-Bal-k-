@@ -87,3 +87,4 @@ Projeyi çalıştırmak için gerekli olan Python kütüphaneleri:
 - Seaborn
 - scikit-learn
 Muzaffer Savcıoğlu
+Kaggle Link : https://www.kaggle.com/code/muzaffersv/large-scale-fish-classification-using-ann-bal-k/notebook?scriptVersionId=203197178
